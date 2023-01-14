@@ -18,5 +18,4 @@ instale o projeto !
 
 cd web  
 cd fe
-yarn install
-yarn dev
+yarn install && yarn dev
