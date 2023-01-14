@@ -16,6 +16,7 @@ Funcionalidades
 
 instale o projeto !
 
-1 - cd web - cd fe
-2 - yarn install
-3 - yarn dev
+cd web  
+cd fe
+yarn install
+yarn dev
