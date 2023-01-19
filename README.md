@@ -3,9 +3,9 @@
 ![Screen Shot 2023-01-14 at 17 35 56](https://user-images.githubusercontent.com/74063154/212495762-e1e09ca4-94e5-472d-936c-d10d9711b051.png)
 ![Screen Shot 2023-01-14 at 17 36 08](https://user-images.githubusercontent.com/74063154/212495765-2674703b-b899-40c6-a302-e2713b7c8bd9.png)
 
-WAIITERAPP WEB
+Waiter app é uma aplicação desenvolvida para ajudar no fluxo de pedidos de um restaurante. Por intermédio dele, os garçons e os responsáveis no preparado do pedido podem ter uma melhor analise, preparação e organização no ambiente de trabalho.
 
-### O waiterapp web é um sistema desenvolvido para atender a cozinha de um restaurante.
+O projeto possui uma aplicação mobile e web que se complementam, onde o mobile serve para os garçons veem o menu de produtos e criarem os pedidos dos clientes; enquanto q a versão web conta com um dashboard dividido em 3 estágios de produção de acordo com a preparação do pedido, sendo eles na fila de espera, em produção e finalizado.
 
 Funcionalidades
 
